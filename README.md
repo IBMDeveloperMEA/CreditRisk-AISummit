@@ -1,4 +1,8 @@
-# Fraud Prediction using Auto AI
+# Sign up for IBM Cloud: https://ibm.biz/ArabAISummit
+
+# Workshop Slides: https://fawazsiddiqi.github.io/CreditRisk-AISummit/
+
+# Credit Risk Prediction using Auto AI
 
 Automation and artificial intelligence (AI) are transforming businesses and will contribute to economic growth via contributions to productivity. They will also help address challenges in areas of healthcare, technology & other areas. At the same time, these technologies will transform the nature of work and the workplace itself. In this code pattern, we will focus on building state of the art systems for churning out predictions which can be used in different scenarios. We will try to predict fraudulent transactions which we know can reduce monetary loss and risk mitigation. The same approach can be used for predicting customer churn, demand and supply forecast and others. Building predictive models require time, effort and good knowledge of algorithms to create effective systems which can predict the outcome accurately. With that being said, IBM has introduced Auto AI which will automate all the tasks involved in building predictive models for different requirements. We will get to see how Auto AI can churn out great models quickly which will save time and effort and aid in faster decision making process.
 
@@ -51,10 +55,6 @@ Follow these steps to setup and run this code pattern using `Auto AI`.
 1. [Analyze results](#8-analyze-results)
 1. [Deploy to Cloud](#9-deploy-to-cloud)
 1. [Model testing](#10-model-testing)
-
-# Sign up for IBM Cloud: https://ibm.biz/ArabAISummit
-
-# Workshop Slides: https://fawazsiddiqi.github.io/CreditRisk-AISummit/
 
 ## 1. Create an account with IBM Cloud
 
