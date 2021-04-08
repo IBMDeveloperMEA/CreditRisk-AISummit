@@ -37,10 +37,6 @@ When the reader has completed this code pattern, they will understand how to :
 * [Analytics](https://developer.ibm.com/code/technologies/analytics/): Analytics delivers the value of data for the enterprise.
 * [Python](https://www.python.org/): Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 
-# Watch the Video
-
-TBD
-
 # Steps using AutoAI
 
 Follow these steps to setup and run this code pattern using `Auto AI`.
@@ -56,12 +52,13 @@ Follow these steps to setup and run this code pattern using `Auto AI`.
 1. [Deploy to Cloud](#9-deploy-to-cloud)
 1. [Model testing](#10-model-testing)
 
+# Sign up for IBM Cloud: https://ibm.biz/ArabAISummit
 
-
+# Workshop Slides: https://fawazsiddiqi.github.io/CreditRisk-AISummit/
 
 ## 1. Create an account with IBM Cloud
 
-Sign up for IBM [**Cloud**](https://console.bluemix.net/). By clicking on create a free account you will get 30 days trial account.
+Sign up for IBM [**Cloud**](https://ibm.biz/ArabAISummit). By clicking on create a free account you will get 30 days trial account.
 
 ## 2. Create a new Watson Studio project
 
@@ -185,7 +182,7 @@ For predicting multiple records, we have to update the values in the json file a
 
 ![](https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/images/json.png)
 
-A sample json file has been provided for testing purpose. The format for scoring the model has to be same as given in json file. Navigate to [data-for-testing](https://github.com/IBM/predict-fraud-using-auto-ai/tree/master/data-for-testing) and save the file on the disk. Copy and paste the values in the test tab as shown above to generate predictions.
+A sample json file has been provided for testing purpose. The format for scoring the model has to be same as given in json file. Navigate to [data-for-testing](https://github.com/fawazsiddiqi/CreditRisk-AISummit/tree/master/data-for-testing) and save the file on the disk. Copy and paste the values in the test tab as shown above to generate predictions.
 
 Go ahead and give it a try on different datasets as per your requirement and realize the ease of creating and deploying models quickly using `AutoAI offering by IBM.`
 
@@ -209,7 +206,7 @@ Follow the below steps to use Jupyter Notebook for building the model. This is t
 * Select the `From URL` tab.
 * Enter a name for the notebook.
 * Optionally, enter a description for the notebook.
-* Enter this Notebook URL: https://github.com/IBM/predict-fraud-using-auto-ai/blob/master/notebook/Fraud_Detect.ipynb
+* Enter this Notebook URL: https://github.com/fawazsiddiqi/CreditRisk-AISummit/blob/master/notebook/Fraud_Detect.ipynb
 * Select the runtime (8 vCPU and 32GB RAM)
 * Click the `Create` button.
 
